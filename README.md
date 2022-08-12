@@ -1,7 +1,7 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Welcome!&desc=emsthf's%20Github&rotate=13&fontAlignY=22&fontAlign=75&descAlign=84&descAlignY=45&animation=fadeIn)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<div align="center">
+<h3>🛠 Tech Stack 🛠</h3>
 <br />
 <img src="https://img.shields.io/badge/java-004466?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
