@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Welcome!&desc=emsthf's%20Github&rotate=13&fontAlignY=22&fontAlign=75&descAlign=84&descAlignY=42&animation=fadeIn)
+<div align="left">
+
 👋 Hi there! I'm **Back-end developer** using Java and Spring.
 
 <h3>🛠 Tech Stack 🛠</h3>
@@ -29,3 +31,5 @@
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emsthf&show_icons=true&theme=radical)
+
+</div>
