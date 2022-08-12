@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Welcome!&desc=emsthf's%20Github&rotate=13&fontAlignY=22&fontAlign=75&descAlign=84&descAlignY=42&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Welcome!&desc=emsthf's%20Github&rotate=13&fontAlignY=22&fontAlign=75&descAlign=84&descAlignY=42&animation=fadeIn&color=auto)
 <div align="left">
 
 👋 Hi there! I'm **Back-end developer** using Java and Spring.
