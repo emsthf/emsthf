@@ -8,7 +8,7 @@
 
 **Language & Framework**
 
-<img src="https://img.shields.io/badge/java-004466?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java-004466?style=for-the-badge&logo=CoffeeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
